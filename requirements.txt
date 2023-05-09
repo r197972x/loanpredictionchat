@@ -111,11 +111,11 @@ google-colab
 google-crc32c
 google-pasta
 google-resumable-media
-googleapis-common-protos9.0
+googleapis-common-protos
 googledrivedownloader
 graphviz
 greenlet
-grpcio4.0
+grpcio
 grpcio-status
 gspread
 gspread-dataframe
