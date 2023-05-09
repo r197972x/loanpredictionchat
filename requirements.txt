@@ -50,7 +50,6 @@ Cython
 dask
 datascience
 db-dtypes
-dbus-python6
 debugpy
 decorator
 defusedxml
