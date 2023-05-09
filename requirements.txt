@@ -162,8 +162,8 @@ jupyter-server
 jupyter_core
 jupyterlab-pygments
 jupyterlab-widgets
-kaggle.13
-keras==2.12.0
+kaggle
+keras
 kiwisolver
 korean-lunar-calendar
 langcodes
