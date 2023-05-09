@@ -286,7 +286,6 @@ PySocks
 pyspark
 pytensor
 pytest
-python-apt
 python-dateutil
 python-louvain
 python-slugify
