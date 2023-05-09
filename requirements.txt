@@ -70,7 +70,7 @@ etils
 etuples
 exceptiongroup
 fastai
-fastcore.29
+fastcore
 fastdownload
 fastjsonschema
 fastprogress
