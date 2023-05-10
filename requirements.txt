@@ -31,7 +31,7 @@ charset-normalizer
 chex
 click
 cloudpickle
-cmake
+CMake
 cmdstanpy
 colorcet
 colorlover
