@@ -198,7 +198,6 @@ opencv-python-headless
 openpyxl
 opt-einsum
 optax
-orbax-checkpoint
 osqp
 packaging
 palettable
